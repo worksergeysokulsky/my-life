@@ -155,7 +155,7 @@
 
 Всегда используйте так называемую «корзину для сбора материала»: место за пределами вашего разума, куда вы можете поместить любую постороннюю информацию. Вы будете точно знать, где найти информацию позже, когда у вас появится на неё время.
 
-- Apple Notes [Mac](https://support.apple.com/ru-ru/guide/notes/welcome/mac) + [iPhone, iPad, iPod touch](https://support.apple.com/ru-ru/HT205773) - Это многофункциональное решение для создания заметок, и если вы используете Mac, iPhone или iPad, вы можете использовать его бесплатно.
+- Apple Notes [Mac](https://support.apple.com/ru-ru/guide/notes/welcome/mac) + [iPhone, iPad, iPod touch](https://support.apple.com/ru-ru/HT205773) — Это многофункциональное решение для создания заметок, и если вы используете Mac, iPhone или iPad, вы можете использовать его бесплатно.
 
 ---
 
