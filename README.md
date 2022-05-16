@@ -169,4 +169,19 @@
 
 ---
 
-# 
+# Гаджет
+
+> Небольшое устройство, предназначенное для облегчения и усовершенствования жизни.
+
+- [Apple](https://www.apple.com) — Американская корпорация, производитель персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения.
+- [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
+- [iPad](https://www.apple.com/ipad) — 
+- [iPhone](https://www.apple.com/iphone) — 
+- [Watch](https://www.apple.com/watch) — 
+- [AirPods](https://www.apple.com/airpods) — 
+- [Apple TV](https://www.apple.com/tv-home) — 
+- [iCloud](https://www.apple.com/icloud) — 
+- []() — 
+- []() — 
+
+---
