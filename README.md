@@ -167,6 +167,8 @@
 
 - [iCloud](https://www.apple.com/icloud) — Лучшее место для всех ваших фотографий, файлов и многого другого.
 
+- [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
+
 ---
 
 # 
