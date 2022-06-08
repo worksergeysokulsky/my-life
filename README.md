@@ -161,9 +161,9 @@
 
 - [Apple](https://www.apple.com) — Американская корпорация, производитель персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения.
 
-- [Apple Support](https://support.apple.com) - Служба поддержки Apple.
+- [Apple Support](https://support.apple.com) — Служба поддержки Apple.
 
-- [Apple ID](https://appleid.apple.com) - Одна учетная запись для всех сервисов Apple.
+- [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
 
 - [iCloud](https://www.apple.com/icloud) — Лучшее место для всех ваших фотографий, файлов и многого другого.
 
