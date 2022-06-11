@@ -169,6 +169,8 @@
 
 - [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
 
+- [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
+
 ---
 
 # 
