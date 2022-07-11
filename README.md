@@ -61,9 +61,9 @@
 
 - [Apple Calendar](https://www.icloud.com/calendar) — Это личный программный календарь, созданный Apple Inc.
 
-- [Apple Reminders](https://www.icloud.com/reminders) - Напоминания помогут не забыть о делах, которые нужно сделать.
+- [Apple Reminders](https://www.icloud.com/reminders) — Напоминания помогут не забыть о делах, которые нужно сделать.
 
-- [Microsoft To Do](https://todo.microsoft.com) - To Do поможет вам сосредоточиться на любом занятии — от работы до игры.
+- [Microsoft To Do](https://todo.microsoft.com) — To Do поможет вам сосредоточиться на любом занятии — от работы до игры.
 
 > GTD (Getting Things Done) — это система продуктивной работы и одноимённая книга бизнес-тренера Дэвида Аллена. Главная цель — успевать делать то, что необходимо, но тратить больше времени на то, что доставляет вам удовольствие.
 
