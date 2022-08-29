@@ -7,3 +7,5 @@
 ## Мой дневник обучения в IT
 
 - [День 1](/IT/my-path-to-IT/my-IT-learning-diary/day-1.md) - 
+
+---
