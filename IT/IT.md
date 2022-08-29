@@ -6,6 +6,6 @@
 
 ## История IT-специалиста
 
-- [Мой путь в IT](/IT/my-path-to-IT/my-path-to-IT.md) — История о непростом пути IT.
+- [Мой путь в IT](/IT/my-path-to-IT/my-path-to-IT.md) — История о непростом пути в IT.
 
 ---
