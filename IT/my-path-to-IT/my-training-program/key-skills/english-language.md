@@ -10,6 +10,8 @@
 
 - [Duolingo](https://www.duolingo.com) — Изучения языка в игровой форме. + [Мой класс](https://duolingo.com/classroom/tjfugf)
 
+- [https://friends-serial.com](Сериал друзья на английском) — отличный способ выучить язык.
+
 # Сертификат
 
 Подтверждения владение английским.
