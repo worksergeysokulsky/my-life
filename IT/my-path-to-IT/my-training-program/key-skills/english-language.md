@@ -8,7 +8,7 @@
 
 С помощью этих инструментов я могу заниматься каждый день и делать это не сильно утруждаясь.
 
-- [Duolingo](https://www.duolingo.com) — Изучения языка в игровой форме. + [Мой класс](www.duolingo.com/classroom/tjfugf)
+- [Duolingo](https://www.duolingo.com) — Изучения языка в игровой форме. + [Мой класс](https://duolingo.com/classroom/tjfugf)
 
 # Сертификат
 
