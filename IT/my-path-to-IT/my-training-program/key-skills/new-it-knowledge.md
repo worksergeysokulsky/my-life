@@ -4,6 +4,6 @@
 
 ---
 
-- [Знания-IT](https://raindrop.io/work-sergey-sokulsky/znaniya-27292229) — Изучения что-то новое.
+- [Знания](https://raindrop.io/work-sergey-sokulsky/znaniya-27292229) — Изучения что-то новое.
 
 ---
