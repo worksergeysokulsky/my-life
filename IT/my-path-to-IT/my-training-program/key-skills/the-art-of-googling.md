@@ -8,7 +8,6 @@
 
 С помощью этих инструментов я могу заниматься каждый день и делать это не сильно утруждаясь.
 
-- [Google](http://google.com) — Искать информацию со всего мира.
-- [Google - Справка](https://support.google.com/websearch/?hl=ru#topic=3378866) — Справочный центр.
+- [Google](http://google.com) — Искать информацию со всего мира. + [Справочный центр](https://support.google.com/websearch/?hl=ru#topic=3378866)
 
 ---
