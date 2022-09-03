@@ -20,6 +20,6 @@
 
 - [Smart Timetable](https://smart-timetable.app) — Расписание занятий и планировщик домашних заданий.
 
-- [Raindrop](https://raindrop.io) — Менеджер закладок "все в одном".
+- [Raindrop](https://raindrop.io) — Современный менеджер закладок.
 
 ---
