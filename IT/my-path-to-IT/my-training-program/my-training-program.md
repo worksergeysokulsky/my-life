@@ -26,4 +26,6 @@
 
 - [Искусство гуглить](/IT/my-path-to-IT/my-training-program/key-skills/the-art-of-googling.md) — Овладения искусством гуглить.
 
+## 
+
 ---
