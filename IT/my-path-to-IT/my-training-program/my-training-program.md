@@ -20,4 +20,10 @@
 
 - [Метод десяти пальцев](/IT/my-path-to-IT/my-training-program/key-skills/ten-finger-method.md) — Обучение быстрой печати.
 
+## Научиться гуглить
+
+> Важно научится правильно формировать запросы и отсеивать ненужную информацию еще на странице выдачи.
+
+- [Искусство гуглить](/IT/my-path-to-IT/my-training-program/key-skills/the-art-of-googling.md) — Овладения искусством гуглить.
+
 ---
