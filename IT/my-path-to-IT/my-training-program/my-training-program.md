@@ -32,10 +32,12 @@
 
 - [Новые знания айтишника](/IT/my-path-to-IT/my-training-program/key-skills/new-it-knowledge.md) — Узнавать новое каждый день.
 
-## Full Stack
+## Full Stack Developer
 
 > Я способен самостоятельно создать техническую часть проекта (Back End) и его интерфейс (Front End).
 
-- [Junior-Middle-Senior, Full Stack-разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack.md) — С нуля изучения Full Stack - разработки.
+Это разработчик, который принимает непосредственное участие во всех этапах разработки веб-сайта или веб-приложений.
+
+- [Junior - Middle - Senior, Full Stack - Разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack.md) — С нуля изучения Full Stack - разработки.
 
 ---
