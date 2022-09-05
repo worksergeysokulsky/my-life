@@ -32,10 +32,10 @@
 
 - [Новые знания айтишника](/IT/my-path-to-IT/my-training-program/key-skills/new-it-knowledge.md) — Узнавать новое каждый день.
 
-## FrontEnd
+## Full Stack
 
-> Научиться и понять как создавать видимую часть сайта и веб-приложения.
+> Я способен самостоятельно создать техническую часть проекта (Back End) и его интерфейс (Front End).
 
-- [Junior-Middle-Senior, FrontEnd-разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-frontend-developer.md) — С нуля изучения FrontEnd-разработки.
+- [Junior-Middle-Senior, Full Stack-разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack.md) — С нуля изучения Full Stack - разработки.
 
 ---
