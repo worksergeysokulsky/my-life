@@ -32,11 +32,13 @@
 
 - [Новые знания айтишника](/IT/my-path-to-IT/my-training-program/key-skills/new-it-knowledge.md) — Узнавать новое каждый день.
 
-## Full Stack Developer
+## Back End + Front End = Full Stack Engineer
 
 > Я способен самостоятельно создать техническую часть проекта (Back End) и его интерфейс (Front End).
 
-Это разработчик, который принимает непосредственное участие во всех этапах разработки веб-сайта или веб-приложений.
+Front End - Представляет собой создание дизайна, отображение внешнего вида сайта (в рамках окна браузера). 
+
+Back End — Это «внутренности» сайта, логика его работы, взаимодействие веб-сервера и контента.
 
 - [Junior - Middle - Senior, Full Stack - Разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack.md) — С нуля изучения Full Stack - разработки.
 
