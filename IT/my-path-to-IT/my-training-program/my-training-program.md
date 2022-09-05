@@ -34,12 +34,8 @@
 
 ## Back End + Front End = Full Stack Engineer
 
-> Я способен самостоятельно создать техническую часть проекта (Back End) и его интерфейс (Front End).
+> Я способен самостоятельно создать веб-сайт и веб-приложения.
 
-Front End - Представляет собой создание дизайна, отображение внешнего вида сайта (в рамках окна браузера). 
-
-Back End — Это «внутренности» сайта, логика его работы, взаимодействие веб-сервера и контента.
-
-- [Junior - Middle - Senior, Full Stack - Разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack.md) — С нуля изучения Full Stack - разработки.
+- [Junior - Middle - Senior, Full Stack Engineer](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack-engineer.md) — С нуля изучения Back End и Front End, разработки.
 
 ---
