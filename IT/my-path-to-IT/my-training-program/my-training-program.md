@@ -32,10 +32,10 @@
 
 - [Новые знания айтишника](/IT/my-path-to-IT/my-training-program/key-skills/new-it-knowledge.md) — Узнавать новое каждый день.
 
-## Frontend
+## FrontEnd
 
 > Научиться и понять как создавать видимую часть сайта и веб-приложения.
 
-- [Junior-Middle-Senior, Frontend-разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-frontend-developer.md) — С нуля изучения Frontend-разработки.
+- [Junior-Middle-Senior, FrontEnd-разработчик](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-frontend-developer.md) — С нуля изучения FrontEnd-разработки.
 
 ---
