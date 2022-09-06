@@ -22,4 +22,8 @@
 
 - [Raindrop](https://raindrop.io) — Современный менеджер закладок.
 
+- 
+
+- [Apple Terminal](https://support.apple.com/ru-ru/guide/terminal/welcome/mac) - Эмулятор терминала, включенный в операционную систему macOS. + [iTerm2](https://iterm2.com/) - Эмулятор терминала. + [Homebrew](https://brew.sh/) - Менеджер недостающих пакетов. + [Git](https://git-scm.com/) - Система управления версиями. + [Oh My Zsh](https://ohmyz.sh/) - Управления конфигурацией Zsh. + [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Это тема для Zsh. + [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Синтаксис подсветки для терминала. + [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Предлагает команды по мере ввода на основе истории и завершения. + [Fig](https://fig.io/) - Добавляет автозаполнение в стиле IDE.
+
 ---

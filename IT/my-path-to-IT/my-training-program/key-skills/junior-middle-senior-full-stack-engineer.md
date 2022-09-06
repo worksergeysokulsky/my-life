@@ -14,7 +14,7 @@
 
 ### Практика №1
 
-- [Верстка сайта с нуля](https://www.youtube.com/watch?v=t2U3V0k1LMc)
-- [Адаптивная верстка. С нуля](https://www.youtube.com/watch?v=JBOzxIkmD9M)
+- [Урок 1](https://www.youtube.com/watch?v=t2U3V0k1LMc) - Верстка сайта с нуля
+- [Урок 2](https://www.youtube.com/watch?v=JBOzxIkmD9M) - Адаптивная верстка (Продолжения)
 
 ---
