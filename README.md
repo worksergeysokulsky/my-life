@@ -77,6 +77,10 @@
 
 - [RescueTime](https://www.rescuetime.com) — Это автоматический инструмент для отслеживания потраченного времени и внимания.
 
+- [Экранное время](https://support.apple.com/kb/index?q=Экранное+время&src=globalnav_support&type=organic&page=search&locale=ru_RU) — Это время, проведённое у экранов любых видов устройств Apple.
+
+- [Фокусирование](https://support.apple.com/kb/index?q=Фокусирование&src=globalnav_support&locale=ru_RU&type=organic&page=search) — Cконцентрироваться на задаче и меньше отвлекаться на устройствах Apple. 
+
 ## Метод GTD
 
 > GTD (Getting Things Done) — Это система продуктивной работы и одноимённая книга бизнес-тренера Дэвида Аллена. Главная цель — успевать делать то, что необходимо, но тратить больше времени на то, что доставляет вам удовольствие.
