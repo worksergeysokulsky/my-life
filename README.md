@@ -140,17 +140,9 @@
 - [Apple Calendar](https://www.icloud.com/calendar) — 
 Это программное обеспечение которое позволяет синхронизировать все запланированные задачи и события на всех устройствах Apple.
 
+- [Apple Reminders](https://www.icloud.com/reminders) — Много функциональное программное обеспечение которое поможет напомнить о любом событии.
 
-
-
-
-
-
-
-
-- [Apple Reminders](https://www.icloud.com/reminders) — Напоминания помогут не забыть о делах, которые нужно сделать.
-
-- [Microsoft To Do](https://todo.microsoft.com) — To Do поможет вам сосредоточиться на любом занятии — от работы до игры.
+- [Microsoft To Do](https://todo.microsoft.com) — Ведение списка дел, которые нужно выполнить в течение какого-то периода времени.
 
 ## Метод Pomodoro
 
