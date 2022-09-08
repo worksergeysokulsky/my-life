@@ -137,7 +137,7 @@
 
 - [Google Calendar](https://www.google.com/intl/ru/calendar/about) — Это веб-сервис и набор программного обеспечения которое позволяет собрать все запланированные задачи и события в одном месте.
 
-- [Apple Calendar](https://support.apple.com/ru-ru/guide/calendar) — 
+- [Apple Calendar](https://www.icloud.com/calendar) — 
 Это программное обеспечение которое позволяет синхронизировать все запланированные задачи и события на всех устройствах Apple.
 
 
