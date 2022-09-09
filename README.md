@@ -170,7 +170,7 @@
 
 С помощью этих инструментов я могу каждый день делать это не сильно утруждаясь.
 
-- [Pomodone](https://pomodoneapp.com) — Это сочетание «помидорной» техники продуктивности и интеграции с популярными списками дел. + ([Settings](/LIFE/time/the-pomodoro-method/pomodone-settings))
+- [Pomo Done](https://pomodoneapp.com) — Это сочетание «помидорной» техники продуктивности и интеграции с популярными списками дел. + ([Settings](/LIFE/time/the-pomodoro-method/pomodone-settings))
 
 ---
 
