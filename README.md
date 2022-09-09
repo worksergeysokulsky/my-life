@@ -172,6 +172,8 @@
 
 - [Pomo Done](https://pomodoneapp.com) — Это сочетание «помидорной» техники продуктивности и интеграции с популярными списками дел. + ([Settings](/LIFE/time/the-pomodoro-method/pomodone-settings))
 
+- [Flat Tomato](https://www.flattomato.com) — Отличный таймер для «помидорной» техники и интеграция с популярными списками дел.
+
 ---
 
 # Сбор
