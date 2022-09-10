@@ -192,7 +192,7 @@
 
 С помощью этих инструментов я могу каждый день делать это не сильно утруждаясь.
 
-- Apple Notes [Mac](https://support.apple.com/ru-ru/guide/notes/welcome/mac) + [iPhone, iPad, iPod touch](https://support.apple.com/ru-ru/HT205773) — Это многофункциональное решение для сбора, хранения, обработки и организации любой информации.
+- [Apple Notes](https://support.apple.com/kb/index?q=Заметки&src=globalnav_support&locale=ru_RU&type=organic&page=search) — Это многофункциональное решение для сбора, хранения, обработки и организации любой информации.
 
 ---
 
