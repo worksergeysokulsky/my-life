@@ -247,9 +247,14 @@
 - [Apple](https://www.apple.com) — Официальный сайт.
 
 
+- [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
+- [iPad](https://www.apple.com/ipad) — Настолько универсален, что это больше, чем любая задача.
+- [iPhone](https://www.apple.com/iphone) — Серия смартфонов, разработанных корпорацией Apple.
+- [Watch](https://www.apple.com/watch) — Это идеальное устройство для здорового образа жизни.
+- [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
+- [Apple TV](https://www.apple.com/tv-home) — Это цифровой медиаплеер, выпущенный в компактном форм-факторе для воспроизведения цифрового контента.
 
-
-
+https://www.apple.com/services/
 
 - [Apple Support](https://support.apple.com) — Служба поддержки Apple.
 
@@ -257,9 +262,13 @@
 
 - [iCloud](https://www.apple.com/icloud) — Лучшее место для всех ваших фотографий, файлов и многого другого.
 
-- [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
 
-- [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
+
+
+
+
+
+
 
 ---
 
