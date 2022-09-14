@@ -245,32 +245,12 @@
 > Американская корпорация, производитель персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения.
 
 - [Apple](https://www.apple.com) — Официальный сайт.
-
-
+- [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
+- [Apple Support](https://support.apple.com) — Служба поддержки Apple.
 - [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
-- [iPad](https://www.apple.com/ipad) — Настолько универсален, что это больше, чем любая задача.
 - [iPhone](https://www.apple.com/iphone) — Серия смартфонов, разработанных корпорацией Apple.
 - [Watch](https://www.apple.com/watch) — Это идеальное устройство для здорового образа жизни.
 - [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
-- [Apple TV](https://www.apple.com/tv-home) — Это цифровой медиаплеер, выпущенный в компактном форм-факторе для воспроизведения цифрового контента.
-
-https://www.apple.com/services/
-
-- [Apple Support](https://support.apple.com) — Служба поддержки Apple.
-
-- [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
-
-- [iCloud](https://www.apple.com/icloud) — Лучшее место для всех ваших фотографий, файлов и многого другого.
-
-https://apps.apple.com/us/app/apple-support/id1130498044?l=en
-https://www.apple.com/app-store/
-
-https://checkcoverage.apple.com/us/en/
-https://discussions.apple.com/welcome
-https://support.apple.com/my-support
-https://training.apple.com
-
-
 
 ---
 
