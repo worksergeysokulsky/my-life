@@ -262,11 +262,13 @@ https://www.apple.com/services/
 
 - [iCloud](https://www.apple.com/icloud) — Лучшее место для всех ваших фотографий, файлов и многого другого.
 
+https://apps.apple.com/us/app/apple-support/id1130498044?l=en
+https://www.apple.com/app-store/
 
-
-
-
-
+https://checkcoverage.apple.com/us/en/
+https://discussions.apple.com/welcome
+https://support.apple.com/my-support
+https://training.apple.com
 
 
 
