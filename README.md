@@ -272,7 +272,7 @@
 
 С помощью этих инструментов я могу каждый день делать это не сильно утруждаясь.
 
-- [Alarm - Apple](https://support.apple.com/kb/index?currentPage=1&doctype=&includeArchived=false&locale=ru_RU&page=search&product=&q=Будильник&src=globalnav_support&type=organic) — В стандартном будильнике от Apple скрыто много полезных фишек, которые позволят персонализировать мой опыт использования устройства и сделать его максимально удобным.
+- [Alarm](https://support.apple.com/kb/index?currentPage=1&doctype=&includeArchived=false&locale=ru_RU&page=search&product=&q=Будильник&src=globalnav_support&type=organic) — В стандартном будильнике от Apple скрыто много полезных фишек, которые позволят персонализировать мой опыт использования устройства и сделать его максимально удобным.
 
 ---
 
