@@ -263,6 +263,8 @@
 
 - [Alarm](https://support.apple.com/kb/index?currentPage=1&doctype=&includeArchived=false&locale=ru_RU&page=search&product=&q=Будильник&src=globalnav_support&type=organic) — В стандартном будильнике от Apple скрыто много полезных фишек, которые позволят персонализировать мой опыт использования устройства и сделать его максимально удобным.
 
+- [Отслеживания сна](https://support.apple.com/kb/index?page=search&q=Сон&product=&doctype=&currentPage=1&includeArchived=false&locale=ru_RU&src=globalnav_support&type=organic) — Стандартное приложения от Apple которое следит за моим сном.
+
 ---
 
 # Гаджет
