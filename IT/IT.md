@@ -34,7 +34,7 @@
 
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) — Это тема для Zsh.
 
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) — Подсветки  синтаксиса для терминала.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) — Подсветка синтаксиса для терминала.
 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) — Предлагает команды по мере ввода на основе истории и завершения.
 
