@@ -289,11 +289,21 @@
 
 - [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
 
+- [iCloud](https://www.apple.com/icloud) — Онлайн хранилище встроено в каждое устройство Apple.
+
+- [Find My](https://checkcoverage.apple.com) — Приложение Find My позволяет легко отслеживать мои устройства от Apple.
+
+- [Family Sharing](https://www.apple.com/family-sharing) — Семейный доступ позволяет делиться доступом к удивительным сервисам Apple.
+
 - [Apple Support](https://support.apple.com) — Служба поддержки Apple.
 
 - [Apple Support Community](https://discussions.apple.com) — Сообщество поддержки Apple.
 
 - [Check Coverage](https://checkcoverage.apple.com) — Проверка статуса гарантии Apple.
+
+
+
+
 
 
 
