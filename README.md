@@ -301,20 +301,12 @@
 
 - [Check Coverage](https://checkcoverage.apple.com) — Проверка статуса гарантии Apple.
 
-
-
-
-
-
-
-
-
-
-
-
 - [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
+
 - [iPhone](https://www.apple.com/iphone) — Серия смартфонов, разработанных корпорацией Apple.
+
 - [Watch](https://www.apple.com/watch) — Это идеальное устройство для здорового образа жизни.
+
 - [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
 
 ---
