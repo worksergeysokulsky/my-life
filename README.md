@@ -293,7 +293,7 @@
 
 - [Apple Support Community](https://discussions.apple.com) — Сообщество поддержки Apple.
 
-- [Check Coverage](https://checkcoverage.apple.com) — Проверить статус гарантии Apple.
+- [Check Coverage](https://checkcoverage.apple.com) — Проверка статуса гарантии Apple.
 
 
 
