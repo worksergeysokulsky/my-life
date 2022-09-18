@@ -285,20 +285,23 @@
 
 > Американская корпорация, производитель персональных и планшетных компьютеров, аудиоплееров, смартфонов, программного обеспечения.
 
-
-
-
-
 - [Apple](https://www.apple.com) — Официальный сайт.
-
-
 
 - [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
 
-
-
-
 - [Apple Support](https://support.apple.com) — Служба поддержки Apple.
+
+- [Apple Support Community](https://discussions.apple.com) — Сообщество поддержки Apple.
+
+- [Check Coverage](https://checkcoverage.apple.com) — Проверить статус гарантии Apple.
+
+
+
+
+
+
+
+
 - [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
 - [iPhone](https://www.apple.com/iphone) — Серия смартфонов, разработанных корпорацией Apple.
 - [Watch](https://www.apple.com/watch) — Это идеальное устройство для здорового образа жизни.
