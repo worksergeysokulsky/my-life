@@ -288,12 +288,18 @@
 - [Apple](https://www.apple.com) — Официальный сайт.
 
 
-
 - [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
 
 - [iCloud](https://www.apple.com/icloud) — Онлайн хранилище встроено в каждое устройство Apple.
 
-- [Find My](https://checkcoverage.apple.com) — Приложение Find My позволяет легко отслеживать мои устройства от Apple.
+
+
+
+
+
+
+
+- [Find My](https://www.apple.com/icloud/find-my/) — Приложение Find My позволяет легко отслеживать мои устройства от Apple.
 
 - [Family Sharing](https://www.apple.com/family-sharing) — Семейный доступ позволяет делиться доступом к удивительным сервисам Apple.
 
@@ -304,13 +310,49 @@
 - [Check Coverage](https://checkcoverage.apple.com) — Проверка статуса гарантии Apple.
 
 - [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
-
+https://www.apple.com/ipad/
 - [iPhone](https://www.apple.com/iphone) — Серия смартфонов, разработанных корпорацией Apple.
 
 - [Watch](https://www.apple.com/watch) — Это идеальное устройство для здорового образа жизни.
 
 - [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
+https://www.apple.com/tv-home/
 
+https://www.apple.com/shop/accessories/all
+
+https://www.apple.com/airtag/
+
+https://developer.apple.com
+
+https://training.apple.com
+
+https://secure2.store.apple.com/shop/account/home
+
+https://jobs.apple.com/app/en-us/profile/info
+
+https://www.apple.com/app-store/
+
+https://www.apple.com/apple-pay/
+
+https://www.apple.com/accessibility/
+
+https://www.apple.com/home-app/
+
+https://www.apple.com/watch/battery/
+
+https://www.apple.com/airplay/
+
+https://www.apple.com/ios/photos/
+
+https://www.apple.com/ios/health/
+https://www.apple.com/maps/
+https://www.apple.com/ios/carplay/
+https://www.apple.com/apple-pay/
+https://www.researchandcare.org
+
+https://www.apple.com/batteries/maximizing-performance/
+https://www.apple.com/siri/
+https://support.apple.com/ru-ru/guide/remote-desktop/welcome/mac
 ---
 
 # Трейдер
