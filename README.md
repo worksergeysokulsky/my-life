@@ -289,13 +289,14 @@
 
 - [Apple ID](https://appleid.apple.com) — Одна учетная запись для всех сервисов Apple.
 
+- [iCloud](https://www.apple.com/icloud) — Онлайн хранилище встроено в каждое устройство Apple.
+
+
 
 ---
 
 
 
-
-- [iCloud](https://www.apple.com/icloud) — Онлайн хранилище встроено в каждое устройство Apple.
 
 
 
