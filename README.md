@@ -297,6 +297,8 @@
 
 - [App-Store](https://www.apple.com/app-store/) — Безопасное и надежное место для поиска и загрузки приложений.
 
+- [Batteries](https://www.apple.com/batteries/maximizing-performance/) — Максимизация времени автономной работы и срока службы
+
 
 
 ---
@@ -319,30 +321,13 @@
 
 - [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
 
-- [iPad](https://www.apple.com/ipad/) — 
-
 - [iPhone](https://www.apple.com/iphone) — Серия смартфонов, разработанных корпорацией Apple.
 
 - [Watch](https://www.apple.com/watch) — Это идеальное устройство для здорового образа жизни.
 
 - [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
 
-- [TV-home](https://www.apple.com/tv-home/) — 
 
-
-
-- [App-Store](https://www.apple.com/apple-pay/) — 
-https://www.apple.com/accessibility/
-https://www.apple.com/airplay/
-https://www.apple.com/ios/photos/
-https://www.apple.com/ios/health/
-https://www.apple.com/maps/
-https://www.apple.com/ios/carplay/
-https://www.apple.com/apple-pay/
-https://www.researchandcare.org
-https://www.apple.com/batteries/maximizing-performance/
-https://www.apple.com/siri/
-https://support.apple.com/ru-ru/guide/remote-desktop/welcome/mac
 
 ---
 
