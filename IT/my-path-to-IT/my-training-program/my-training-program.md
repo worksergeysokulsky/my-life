@@ -32,6 +32,8 @@
 
 - [Новые знания айтишника](/IT/my-path-to-IT/my-training-program/key-skills/new-it-knowledge.md) — Узнавать новое каждый день.
 
+# 
+
 ## Back End + Front End = Full Stack Engineer
 
 > Я способен самостоятельно создать веб-сайт и веб-приложения.
