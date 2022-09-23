@@ -6,4 +6,4 @@
 
 - [Макет целевой страницы](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack-engineer/html-css/website-layout/) + [Урок 1](https://www.youtube.com/watch?v=t2U3V0k1LMc) + [Урок 2](https://www.youtube.com/watch?v=JBOzxIkmD9M) — Одностраничный сайт.
 
-> 12.09.22 – 23.09.22 = 10:26:09
+**12.09.22 – 23.09.22 = 10:26:09**
