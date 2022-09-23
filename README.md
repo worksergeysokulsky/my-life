@@ -293,7 +293,7 @@
 
 - [App Store](https://www.apple.com/app-store/) — Безопасное и надежное место для поиска и загрузки приложений.
 
-- [Batteries](https://www.apple.com/batteries/maximizing-performance/) — Максимизация времени автономной работы и срока службы.
+- [Batteries](https://www.apple.com/batteries/) — Максимизация времени автономной работы и срока службы.
 
 
 
