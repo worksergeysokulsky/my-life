@@ -20,11 +20,9 @@
 
 #### ОТЧЁТ
 
-> 12 сентября – 23 сентября = 10ч 26м 9с
+> 12.09.22 – 23.09.22 = 10:26:9
 
-Верстка простого сайт по уроку с YouTube с нуля в котором не было препроцессоров, сборщиков и каких-либо инструментов, только HTML и CSS!
-
-[MNTN-landing-page](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack-engineer/html-css/MNTN-landing-page-main)
+- [MNTN-landing-page](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack-engineer/html-css/MNTN-landing-page-main) - Основы HTML & CSS пройденые!!!
 
 ## JavaScript
 
