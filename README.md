@@ -295,6 +295,11 @@
 
 - [Batteries](https://www.apple.com/batteries/) — Максимизация времени автономной работы и срока службы.
 
+- [Apple Support](https://support.apple.com) — Служба поддержки Apple.
+
+- [Apple Support Community](https://discussions.apple.com) — Сообщество поддержки Apple.
+
+- [Check Coverage](https://checkcoverage.apple.com) — Проверка статуса гарантии Apple.
 
 
 ---
@@ -308,12 +313,6 @@
 
 
 
-
-- [Apple Support](https://support.apple.com) — Служба поддержки Apple.
-
-- [Apple Support Community](https://discussions.apple.com) — Сообщество поддержки Apple.
-
-- [Check Coverage](https://checkcoverage.apple.com) — Проверка статуса гарантии Apple.
 
 - [Mac](https://www.apple.com/mac) — Линейка персональных компьютеров производства корпорации Apple.
 
