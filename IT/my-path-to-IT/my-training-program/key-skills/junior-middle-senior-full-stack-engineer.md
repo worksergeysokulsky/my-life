@@ -20,7 +20,7 @@
 
 #### ОТЧЁТ
 
-> 12.09.22 – 23.09.22 = 10:26:9
+> 12.09.22 – 23.09.22 = 10:26:09
 
 - [MNTN-landing-page](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack-engineer/html-css/MNTN-landing-page-main) - Основы HTML & CSS пройденые!!!
 
