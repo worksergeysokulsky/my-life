@@ -310,7 +310,3 @@
 - [AirPods](https://www.apple.com/airpods) — Беспроводные Bluetooth наушники от корпорации Apple.
 
 ---
-
-# 
-
----
