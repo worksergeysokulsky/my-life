@@ -24,6 +24,8 @@
 
 Верстка простого сайт по уроку с YouTube с нуля в котором не было препроцессоров, сборщиков и каких-либо инструментов, только HTML и CSS!
 
+[MNTN-landing-page](/IT/my-path-to-IT/my-training-program/key-skills/junior-middle-senior-full-stack-engineer/html-css/MNTN-landing-page-main/README.md)
+
 ## JavaScript
 
 > Это язык программирования, который позволяет мне создать динамический обновляемый контент, управления мультимедией, анимирування изображения, впрочем, делает всё, что угодно.
