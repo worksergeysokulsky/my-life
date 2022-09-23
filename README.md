@@ -291,7 +291,7 @@
 
 - [Family Sharing](https://www.apple.com/family-sharing) — Семейный доступ позволяет делиться доступом к удивительным сервисам Apple.
 
-- [App-Store](https://www.apple.com/app-store/) — Безопасное и надежное место для поиска и загрузки приложений.
+- [App Store](https://www.apple.com/app-store/) — Безопасное и надежное место для поиска и загрузки приложений.
 
 - [Batteries](https://www.apple.com/batteries/maximizing-performance/) — Максимизация времени автономной работы и срока службы.
 
