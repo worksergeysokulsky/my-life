@@ -325,9 +325,11 @@
 
 - [CleanMyMac X](https://macpaw.com/ru/cleanmymac) — Программа вычистит мегатонны мусора, и заставит компьютер работать быстрее.
 
+- [QuitAll](https://amicoapps.com/app/quitall/) — Завершения ненужных в данный момент программ (или всех сразу).
 
 
-- [QuitAll]() — 
+
+
 
 - []() — 
 
