@@ -315,16 +315,19 @@
 
 - [Punto Switcher](https://yandex.ru/soft/punto/mac) — Автоматически переключает раскладку клавиатуры.
 
+- [The Unarchiver](https://macpaw.com/the-unarchiver) — Утилита для работы с архивами.
+
+- [IINA](https://iina.io) — Современный медиаплеер для macOS.
+
+- [Encrypto](https://macpaw.com/encrypto) — Позволяет шифровать файлы перед отправкой.
 
 
 
 
 
-- []() — 
 
-- []() — 
 
-- []() — 
+
 
 - []() — 
 
