@@ -313,32 +313,32 @@
 
 - [Hot](https://xs-labs.com/en/apps/hot/overview/) — Утилита для строки меню macOS, позволяющая в реальном времени отображать ограничение мощности ЦП, вызванное перегревом.
 
-- [Punto Switcher](https://yandex.ru/soft/punto/mac) — Автоматически переключает раскладку клавиатуры.
+- [Punto Switcher](https://yandex.ru/soft/punto/mac) — Автоматически переключает раскладку клавиатуры на macOS.
 
-- [The Unarchiver](https://macpaw.com/the-unarchiver) — Утилита для работы с архивами.
+- [The Unarchiver](https://macpaw.com/the-unarchiver) — Утилита для работы с архивами на macOS.
 
 - [IINA](https://iina.io) — Современный медиаплеер для macOS.
 
-- [Encrypto](https://macpaw.com/encrypto) — Позволяет шифровать файлы перед отправкой.
+- [Encrypto](https://macpaw.com/encrypto) — Позволяет шифровать файлы перед отправкой на macOS.
 
 - [Bartender](https://www.macbartender.com) — Приложение для macOS, которое отлично работает в строке меню, предоставляя мне полный контроль над пунктами строки меню, тем, что отображается и когда, а пункты строки меню отображаются только тогда, когда они мне нужны.
 
-- [CleanMyMac X](https://macpaw.com/ru/cleanmymac) — Программа вычистит мегатонны мусора, и заставит компьютер работать быстрее.
+- [CleanMyMac X](https://macpaw.com/ru/cleanmymac) — Программа вычистит мегатонны мусора, и заставит macOS работать быстрее.
 
-- [QuitAll](https://amicoapps.com/app/quitall/) — Завершения ненужных в данный момент программ (или всех сразу).
+- [QuitAll](https://amicoapps.com/app/quitall/) — Завершения ненужных в данный момент программ (или всех сразу) на macOS.
 
 - [App Tamer](https://www.stclairsoft.com/AppTamer/index.html) — Контролирует, управляет и перераспределяет загрузку процессора на macOS.
 
-- [Memory Diag](https://rockysandstudio.com) — Следит за системной памятью.
+- [Memory Diag](https://rockysandstudio.com) — Следит за системной памятью на macOS.
 
-- [Wattagio](https://filincode.com) — Информирует о текущем состоянии батареи и помогает снизить энергопотребление.
+- [Wattagio](https://filincode.com) — Информирует о текущем состоянии батареи и помогает снизить энергопотребление на macOS.
 
 - [SoundSource](https://rogueamoeba.com/soundsource/) — Мощный контроль над всем звуком на macOS!
 
-- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) — Утилита, которое позволяет просматривать сочетания клавиш одним нажатием кнопки.
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) — Утилита, которое позволяет просматривать сочетания клавиш одним нажатием кнопки на macOS.
 
-- [CustomShortcuts](https://www.houdah.com/customShortcuts/?ref=mediaatelier) — Настройка сочетаний клавиш.
+- [CustomShortcuts](https://www.houdah.com/customShortcuts/?ref=mediaatelier) — Настройка сочетаний клавиш на macOS.
 
-- [Numi](https://numi.app) — Красивое приложение калькулятор для Mac.
+- [Numi](https://numi.app) — Красивое приложение калькулятор для macOS.
 
 ---
