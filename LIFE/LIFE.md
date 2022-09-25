@@ -329,9 +329,9 @@
 
 - [App Tamer](https://www.stclairsoft.com/AppTamer/index.html) — Контролирует, управляет и перераспределяет загрузку процессора на macOS.
 
+- [Memory Diag](https://rockysandstudio.com) — Следит за системной памятью.
 
 
-- []() — 
 
 - []() — 
 
