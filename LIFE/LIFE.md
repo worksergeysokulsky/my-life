@@ -333,6 +333,10 @@
 
 - [Wattagio](https://filincode.com) — Информирует о текущем состоянии батареи и помогает снизить энергопотребление.
 
-- [SoundSource](https://rogueamoeba.com) — Мощный контроль над всем звуком на macOS!
+- [SoundSource](https://rogueamoeba.com/soundsource/) — Мощный контроль над всем звуком на macOS!
+
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) — Утилита, которое позволяет просматривать сочетания клавиш одним нажатием кнопки.
+
+- [CustomShortcuts](https://www.houdah.com/customShortcuts/?ref=mediaatelier) — Настройка сочетаний клавиш.
 
 ---
