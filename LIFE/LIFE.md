@@ -343,6 +343,6 @@
 
 - [Folx](https://www.mac-downloader.com) — Менеджер загрузок для macOS.
 
-- [PullTube](https://mymixapps.com/pulltube) — Приложение может загружать видео, аудио с веб-сайтов на macOS.
+- [PullTube](https://mymixapps.com/pulltube) — Приложение может загружать видео, аудио на macOS.
 
 ---
