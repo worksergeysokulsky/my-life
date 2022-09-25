@@ -341,4 +341,6 @@
 
 - [Numi](https://numi.app) — Красивое приложение калькулятор для macOS.
 
+- [Folx](https://www.mac-downloader.com) — Менеджер загрузок для macOS.
+
 ---
