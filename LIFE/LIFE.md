@@ -327,11 +327,9 @@
 
 - [QuitAll](https://amicoapps.com/app/quitall/) — Завершения ненужных в данный момент программ (или всех сразу).
 
+- [App Tamer](https://www.stclairsoft.com/AppTamer/index.html) — Контролирует, управляет и перераспределяет загрузку процессора на macOS.
 
 
-
-
-- []() — 
 
 - []() — 
 
