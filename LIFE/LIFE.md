@@ -339,6 +339,6 @@
 
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/?ref=mediaatelier) — Настройка сочетаний клавиш.
 
-- [Numi](https://numi.app) - Красивое приложение калькулятора для Mac.
+- [Numi](https://numi.app) — Красивое приложение калькулятора для Mac.
 
 ---
