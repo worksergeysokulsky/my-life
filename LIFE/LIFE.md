@@ -315,6 +315,12 @@
 
 С помощью этих инструментов я могу каждый день делать это не сильно утруждаясь.
 
+- [macOS]() — Операционная система [Mac](https://www.apple.com/mac)
+
+- [iOS]() — Операционная система [iPhone](https://www.apple.com/iphone)
+
+- [iPadOS]() — Операционная система [Watch](https://www.apple.com/watch)
+
 - [Silicon](https://xs-labs.com/en/apps/silicon/overview/) — Проверить, совместимы ли приложения на моем Mac с Apple Silicon.
 
 - [Hot](https://xs-labs.com/en/apps/hot/overview/) — Утилита для строки меню macOS, позволяющая в реальном времени отображать ограничение мощности ЦП, вызванное перегревом.
