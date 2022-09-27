@@ -355,4 +355,6 @@
 
 - [Owly](https://fiplab.com) — Предотвратить сон дисплея на macOS.
 
+- [Moom](https://manytricks.com/moom/) — Перемещение и масштабирование окон для macOS.
+
 ---
