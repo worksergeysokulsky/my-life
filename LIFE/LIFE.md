@@ -81,7 +81,7 @@
 
 - [Таймер](https://support.apple.com/kb/index?q=Таймер&src=globalnav_support&type=organic&page=search&locale=ru_RU) — Стандартное приложения от Apple в заданный момент времени выдающий определённый сигнал.
 
-- [Мировые часы]() — Стандартное приложения от Apple в котором показывает среднее время по Гринвичу, связанное с суточным вращением Земли.
+- [Мировые часы](https://support.apple.com/kb/index?page=search&q=Мировые%20часы&product=&doctype=&currentPage=1&includeArchived=false&locale=ru_RU&src=globalnav_support&type=organic) — Стандартное приложения от Apple в котором показывает среднее время по Гринвичу, связанное с суточным вращением Земли.
 
 ## Метод GTD
 
