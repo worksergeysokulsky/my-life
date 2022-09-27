@@ -315,11 +315,11 @@
 
 С помощью этих инструментов я могу каждый день делать это не сильно утруждаясь.
 
-- [macOS]() — Операционная система [Mac](https://www.apple.com/mac)
+- [macOS](https://www.apple.com/mac) — Операционная система Mac.
 
-- [iOS]() — Операционная система [iPhone](https://www.apple.com/iphone)
+- [iOS](https://www.apple.com/iphone) — Операционная система iPhone.
 
-- [iPadOS]() — Операционная система [Watch](https://www.apple.com/watch)
+- [iPadOS](https://www.apple.com/watch) — Операционная система Watch.
 
 - [Silicon](https://xs-labs.com/en/apps/silicon/overview/) — Проверить, совместимы ли приложения на моем Mac с Apple Silicon.
 
