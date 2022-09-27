@@ -353,4 +353,6 @@
 
 - [Unsplash](https://unsplash.com/) — Завораживающие обои.
 
+- [Owly](https://fiplab.com) — Предотвратить сон дисплея на macOS.
+
 ---
