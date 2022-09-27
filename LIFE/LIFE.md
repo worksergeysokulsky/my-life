@@ -75,7 +75,13 @@
 
 - [Экранное время](https://support.apple.com/kb/index?q=Экранное+время&src=globalnav_support&type=organic&page=search&locale=ru_RU) — Это время, проведённое у экранов любых видов устройств Apple.
 
-- [Фокусирование](https://support.apple.com/kb/index?q=Фокусирование&src=globalnav_support&locale=ru_RU&type=organic&page=search) — Сконцентрироваться на задаче и меньше отвлекаться на устройствах Apple. 
+- [Фокусирование](https://support.apple.com/kb/index?q=Фокусирование&src=globalnav_support&locale=ru_RU&type=organic&page=search) — Сконцентрироваться на задаче и меньше отвлекаться на устройствах Apple.
+
+- [Секундомер](https://support.apple.com/kb/index?q=Секундомер&src=globalnav_support&type=organic&page=search&locale=ru_RU) — Стандартное приложения от Apple способное измерять интервалы времени с точностью до долей секунды.
+
+- [Таймер](https://support.apple.com/kb/index?q=Таймер&src=globalnav_support&type=organic&page=search&locale=ru_RU) — Стандартное приложения от Apple в заданный момент времени выдающий определённый сигнал.
+
+- [Мировые часы]() — Стандартное приложения от Apple в котором показывает среднее время по Гринвичу, связанное с суточным вращением Земли.
 
 ## Метод GTD
 
