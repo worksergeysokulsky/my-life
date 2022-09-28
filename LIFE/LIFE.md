@@ -365,7 +365,6 @@
 
 - [HazeOver](https://hazeover.com) — Автоматически выделяет окно активной программы затеняя все фоновые окна на macOS.
 
-- [Progressive Downloader](https://www.macpsd.net) — Менеджер загрузок для macOS.- хЗкщпкуыышму Вщцтдщфвукъ(реезыЖ//цццюьфсзывютуе) — Vtytl;th pfuhepjr lkz ьфсЩЫю
-
+- [Progressive Downloader](https://www.macpsd.net) — Менеджер загрузок для macOS.
 
 ---
