@@ -363,4 +363,6 @@
 
 - [Swish](https://highlyopinionated.co/swish) — Перемещение и масштабирование окон на macOS.
 
+- [HazeOver](https://hazeover.com/) — Автоматически выделяет окно активной программы затеняя все фоновые окна на macOS.
+
 ---
