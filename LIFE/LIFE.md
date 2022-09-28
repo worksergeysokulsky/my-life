@@ -289,13 +289,13 @@
 
 - [iCloud](https://www.apple.com/icloud) — Онлайн хранилище встроено в каждое устройство Apple.
 
-- [Find My](https://www.apple.com/icloud/find-my/) — Позволяет легко отслеживать мои устройства от Apple.
+- [Find My](https://www.apple.com/icloud/find-my) — Позволяет легко отслеживать мои устройства от Apple.
 
 - [Family Sharing](https://www.apple.com/family-sharing) — Семейный доступ позволяет делиться доступом к удивительным сервисам Apple.
 
-- [App Store](https://www.apple.com/app-store/) — Безопасное и надежное место для поиска и загрузки приложений.
+- [App Store](https://www.apple.com/app-store) — Безопасное и надежное место для поиска и загрузки приложений.
 
-- [Batteries](https://www.apple.com/batteries/) — Максимизация времени автономной работы и срока службы.
+- [Batteries](https://www.apple.com/batteries) — Максимизация времени автономной работы и срока службы.
 
 - [Apple Support](https://support.apple.com) — Служба поддержки Apple.
 
@@ -321,9 +321,9 @@
 
 - [iPadOS](https://www.apple.com/watch) — Операционная система Watch.
 
-- [Silicon](https://xs-labs.com/en/apps/silicon/overview/) — Проверить, совместимы ли приложения на моем Mac с Apple Silicon.
+- [Silicon](https://xs-labs.com/en/apps/silicon/overview) — Проверить, совместимы ли приложения на моем Mac с Apple Silicon.
 
-- [Hot](https://xs-labs.com/en/apps/hot/overview/) — Утилита для строки меню macOS, позволяющая в реальном времени отображать ограничение мощности ЦП, вызванное перегревом.
+- [Hot](https://xs-labs.com/en/apps/hot/overview) — Утилита для строки меню macOS, позволяющая в реальном времени отображать ограничение мощности ЦП, вызванное перегревом.
 
 - [Punto Switcher](https://yandex.ru/soft/punto/mac) — Автоматически переключает раскладку клавиатуры на macOS.
 
@@ -337,7 +337,7 @@
 
 - [CleanMyMac X](https://macpaw.com/ru/cleanmymac) — Программа вычистит мегатонны мусора, и заставит macOS работать быстрее.
 
-- [QuitAll](https://amicoapps.com/app/quitall/) — Завершения ненужных в данный момент программ (или всех сразу) на macOS.
+- [QuitAll](https://amicoapps.com/app/quitall) — Завершения ненужных в данный момент программ (или всех сразу) на macOS.
 
 - [App Tamer](https://www.stclairsoft.com/AppTamer/index.html) — Контролирует, управляет и перераспределяет загрузку процессора на macOS.
 
@@ -345,9 +345,9 @@
 
 - [Wattagio](https://filincode.com) — Информирует о текущем состоянии батареи и помогает снизить энергопотребление на macOS.
 
-- [SoundSource](https://rogueamoeba.com/soundsource/) — Мощный контроль над всем звуком на macOS!
+- [SoundSource](https://rogueamoeba.com/soundsource) — Мощный контроль над всем звуком на macOS!
 
-- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) — Утилита, которое позволяет просматривать сочетания клавиш одним нажатием кнопки на macOS.
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet) — Утилита, которое позволяет просматривать сочетания клавиш одним нажатием кнопки на macOS.
 
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/?ref=mediaatelier) — Настройка сочетаний клавиш на macOS.
 
@@ -357,10 +357,10 @@
 
 - [PullTube](https://mymixapps.com/pulltube) — Приложение может загружать видео, аудио на macOS.
 
-- [Unsplash](https://unsplash.com/) — Завораживающие обои.
+- [Unsplash](https://unsplash.com) — Завораживающие обои.
 
 - [Owly](https://fiplab.com) — Предотвратить сон дисплея на macOS.
 
-- [Swish](https://highlyopinionated.co/swish/) — Перемещение и масштабирование окон на macOS.
+- [Swish](https://highlyopinionated.co/swish) — Перемещение и масштабирование окон на macOS.
 
 ---
