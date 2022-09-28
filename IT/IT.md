@@ -24,13 +24,13 @@
 
 - [Apple Terminal](https://support.apple.com/ru-ru/guide/terminal/welcome/mac) — Эмулятор терминала, включенный в операционную систему macOS. + ([Settings](/IT/tools/main/apple-terminal))
 
-- [iTerm2](https://iterm2.com/) — Эмулятор терминала, современными функциями. + ([Settings](/IT/tools/main/iTerm2))
+- [iTerm2](https://iterm2.com) — Эмулятор терминала, современными функциями. + ([Settings](/IT/tools/main/iTerm2))
 
 - [Homebrew](https://brew.sh) — Менеджер недостающих пакетов.
 
 - [Git](https://git-scm.com) — Система управления версиями.
 
-- [Oh My Zsh](https://ohmyz.sh/) — Управления конфигурацией Zsh.
+- [Oh My Zsh](https://ohmyz.sh) — Управления конфигурацией Zsh.
 
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) — Это тема для Zsh.
 
@@ -38,7 +38,7 @@
 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) — Предлагает команды по мере ввода на основе истории и завершения.
 
-- [Fig](https://fig.io/) — Добавляет автозаполнение в стиле IDE.
+- [Fig](https://fig.io) — Добавляет автозаполнение в стиле IDE.
 
 - [NvChad](https://nvchad.com) — Невероятно быстрая конфигурация neovim с надежными настройками по умолчанию и красивым пользовательским интерфейсом.
 
