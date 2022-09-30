@@ -375,4 +375,5 @@
 
 - [Rest Time](https://www.publicspace.net/RestTime/index.html) — Приложение позволяющее удобно делать перерывы на macOS.
 
+- [AlDente Pro](https://apphousekitchen.com) — 
 ---
