@@ -369,4 +369,6 @@
 
 - [Progressive Downloader](https://www.macpsd.net) — Менеджер загрузок для macOS.
 
+- [Hazel](https://www.noodlesoft.com) — Приложение, которое автоматически выполняет действия с файлами на macOS.
+
 ---
