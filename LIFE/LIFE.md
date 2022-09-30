@@ -176,6 +176,8 @@
 
 - [Flat Tomato](https://www.flattomato.com) — Отличный таймер для «помидорной» техники и интеграция с популярными списками дел.
 
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) — Аккуратный таймер Pomodoro для строки меню macOS.
+
 ---
 
 # Сбор
