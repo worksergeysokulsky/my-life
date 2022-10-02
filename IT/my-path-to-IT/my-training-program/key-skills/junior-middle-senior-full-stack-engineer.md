@@ -32,4 +32,4 @@
 
 Рассматриваю основы языка JavaScript.
 
-- [Основы JavaScript](https://www.youtube.com/watch?v=Bluxbh9CaQ0&t=9387s) — Полный Курс за 6 часов.
+- [Основы JavaScript](https://www.youtube.com/watch?v=Bluxbh9CaQ0&t=9387s) — Полный курс за 6 часов.
