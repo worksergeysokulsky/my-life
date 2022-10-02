@@ -377,4 +377,6 @@
 
 - [AlDente Pro](https://apphousekitchen.com) — Charge Limiter для MacBook.
 
+- [Alfred](https://www.alfredapp.com) — Повышает эффективность с помощью горячих клавиш, ключевых слов, расширения текста и многого другого. + Settings
+
 ---
