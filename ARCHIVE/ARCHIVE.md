@@ -5,3 +5,5 @@
 - [Code4Game](https://code4game.ru) — Уникальный игровой контент.
 
 - [WoTReplays](http://wotreplays.ru) — Делиться реплеями своих боёв и просматривать сражения других игроков.
+
+- [Memory Diag](https://rockysandstudio.com) — Следит за системной памятью на macOS.

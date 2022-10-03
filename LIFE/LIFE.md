@@ -343,7 +343,7 @@
 
 - [App Tamer](https://www.stclairsoft.com/AppTamer/index.html) — Контролирует, управляет и перераспределяет загрузку процессора на macOS.
 
-- [Memory Diag](https://rockysandstudio.com) — Следит за системной памятью на macOS.
+- [Memory Clean](https://fiplab.com/apps/memory-clean-3-for-mac) — Мощная утилита для очистки памяти для Mac.
 
 - [Wattagio](https://filincode.com) — Информирует о текущем состоянии батареи и помогает снизить энергопотребление на macOS.
 
